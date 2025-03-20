@@ -11,7 +11,9 @@
 📚 Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+!
 [68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/6af96c25-5e7e-4cfb-b1bb-0efc1adb8e13)!
+
 [68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3339383243453f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/0526aff3-9427-42e4-a802-873465ec1e20)!
 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
