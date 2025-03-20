@@ -1,4 +1,11 @@
+## Citation
+> "Le code est de la poésie, et chaque développeur est un poète." – Anonyme
 
+## Exemple de code
+```javascript
+function helloWorld() {
+  console.log("Hello, World!");
+}
 
 📚 Frameworks and Libraries
 
@@ -25,7 +32,7 @@
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465](https://github.com/user-attachments/assets/fd7dd450-12a6-4d77-b7cb-87aefdee5f8e)
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507269736d612d3339383243453f7374796c653d666f722d7468652d6261646765266c6f676f3d507269736d61266c6f676f436f6c6f723d7768697465.svg…]()
+
 
 
 
