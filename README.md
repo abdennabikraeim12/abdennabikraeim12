@@ -1,3 +1,11 @@
+## Fonctionnalités
+
+| Fonctionnalité       | Description                          |
+|----------------------|--------------------------------------|
+| Authentification      | Connexion et inscription des utilisateurs. |
+| Gestion des produits  | Ajout, modification et suppression de produits. |
+| Recherche avancée     | Filtrage des produits par catégorie, prix, etc. |
+
 ## Ressources utiles
 - [Documentation React](https://reactjs.org/docs/getting-started.html)
 - [Documentation Node.js](https://nodejs.org/en/docs/)
