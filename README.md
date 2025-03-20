@@ -1,3 +1,9 @@
+## Ressources utiles
+- [Documentation React](https://reactjs.org/docs/getting-started.html)
+- [Documentation Node.js](https://nodejs.org/en/docs/)
+- [Guide Markdown](https://www.markdownguide.org/)
+
+
 <details>
   <summary>📚 Cliquez ici pour voir les technologies utilisées</summary>
 
