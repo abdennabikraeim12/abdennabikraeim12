@@ -1,11 +1,4 @@
-## Citation
-> "Le code est de la poésie, et chaque développeur est un poète." – Anonyme
 
-## Exemple de code
-```javascript
-function helloWorld() {
-  console.log("Hello, World!");
-}
 
 📚 Frameworks and Libraries
 
