@@ -1,10 +1,12 @@
-## Fonctionnalités
+## Capture d'écran
+<p align="center">
+  <img src="https://github.com/abdennabikraeim12/mon-projet/blob/main/images/screenshot.png?raw=true" width="600">
+</p>
 
-| Fonctionnalité       | Description                          |
-|----------------------|--------------------------------------|
-| Authentification      | Connexion et inscription des utilisateurs. |
-| Gestion des produits  | Ajout, modification et suppression de produits. |
-| Recherche avancée     | Filtrage des produits par catégorie, prix, etc. |
+## Démonstration
+<p align="center">
+  <img src="https://github.com/abdennabikraeim12/mon-projet/blob/main/images/demo.gif?raw=true" width="600">
+</p>
 
 ## Ressources utiles
 - [Documentation React](https://reactjs.org/docs/getting-started.html)
