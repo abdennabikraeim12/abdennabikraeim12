@@ -1,12 +1,17 @@
-## Capture d'écran
-<p align="center">
-  <img src="https://github.com/abdennabikraeim12/mon-projet/blob/main/images/screenshot.png?raw=true" width="600">
-</p>
+#### 🛠️ Tools and Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## Démonstration
-<p align="center">
-  <img src="https://github.com/abdennabikraeim12/mon-projet/blob/main/images/demo.gif?raw=true" width="600">
-</p>
+---
+
+### **Personnalisation supplémentaire**
+Vous pouvez personnaliser davantage vos badges en utilisant [Shields.io](https://shields.io/). Par exemple :
+- Changer la couleur de fond.
+- Ajouter un logo personnalisé.
+- Ajuster le style du badge.
 
 ## Ressources utiles
 - [Documentation React](https://reactjs.org/docs/getting-started.html)
