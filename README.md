@@ -1,10 +1,15 @@
 <details>
   <summary>📚 Cliquez ici pour voir les technologies utilisées</summary>
 
-  - **Frontend** : React, Redux, Tailwind CSS
-  - **Backend** : Node.js, Express, MongoDB
+  - **Frontend** : React, Redux, Tailwind CSS,Zustand
+  - **Backend** : Node.js, Express, MongoDB,SQL
   - **Outils** : Git, Docker, VS Code
 </details>
+
+## Statut du projet
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/abdennabikraeim12/mon-projet/ci.yml?style=for-the-badge)
+![Version](https://img.shields.io/github/package-json/v/abdennabikraeim12/mon-projet?style=for-the-badge)
 
 📚 Frameworks and Libraries
 
