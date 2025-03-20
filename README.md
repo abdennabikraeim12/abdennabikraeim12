@@ -1,4 +1,10 @@
+<details>
+  <summary>📚 Cliquez ici pour voir les technologies utilisées</summary>
 
+  - **Frontend** : React, Redux, Tailwind CSS
+  - **Backend** : Node.js, Express, MongoDB
+  - **Outils** : Git, Docker, VS Code
+</details>
 
 📚 Frameworks and Libraries
 
